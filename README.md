@@ -1,6 +1,6 @@
-# Frontend Service
+# CubeMart Frontend Service
 
-The **Frontend** is the user-facing HTTP server for the Online Boutique microservices demo. It is written in Go and acts as the API gateway — rendering HTML pages for the browser and communicating with all other backend microservices via gRPC (and HTTP for the auth and shopping assistant services).
+The **Frontend** is the user-facing web storefront and API gateway for CubeMart. It is written in Go and renders HTML pages while communicating with backend microservices over gRPC and HTTP.
 
 ---
 
