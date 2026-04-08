@@ -1,5 +1,9 @@
 # CubeMart Frontend Service
 
+![CubeMart](https://img.shields.io/badge/CubeMart-Frontend-0f766e)
+![Go](https://img.shields.io/badge/Go-Service-00ADD8)
+![Gateway](https://img.shields.io/badge/API-Gateway-1f2937)
+
 The **Frontend** is the user-facing web storefront and API gateway for CubeMart. It is written in Go and renders HTML pages while communicating with backend microservices over gRPC and HTTP.
 
 ---
